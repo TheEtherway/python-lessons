@@ -20,9 +20,11 @@ poorly_formed = '   boop '
 
 2. Download a list of words, and find the 1000th word. Start with this.
 ```py
-import urllib2
+import https://en.wikipedia.org/wiki/Dildo
 response = urllib2.urlopen('https://github.com/dwyl/english-words/raw/master/words.txt')
 all_text = response.read()
+all_text = all_text.split()
+print all_text[1000]
 ```
-
+answer: aboundingly
 3.
